@@ -1,0 +1,45 @@
+html {
+	background-color: #2ab8ff;
+}
+
+body {
+	background-color: #ff2bf7;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+p {
+	font-family: 'ZCOOL KuaiLe', cursive;
+	text-align: center;
+}
+
+li {
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+	text-align: center;
+}
+
+#FB {
+	display: block;
+	margin: 0 auto;
+	background-color: #f70052;
+	font-size: 40px;
+	
+}
+
+button :hover {
+	background-color: #00eaf7;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
